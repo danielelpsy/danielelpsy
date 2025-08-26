@@ -15,7 +15,7 @@
 - 🧠 Bug Bounty Hunter & Cybersecurity Specialist  
 - 📜 Certified: CEH | PenTest+ | Security+ | Network+  
 - 🛡️ Passionate about privacy, digital defense, and ethical hacking  
-- 🎓 Currently completing my technical diploma in Business Information Systems
+- 🎓 Currently enrolled in the BSc in Cybersecurity of Systems and Networks at the University of Milan.
 
 ---
 
