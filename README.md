@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniele</h1>
-<h3 align="center">Cybersecurity enthusiast | Bug Bounty Hunter</h3>
+<h3 align="center">Cybersecurity Analyst | Bug Bounty Hunter</h3>
 
 <p align="center">
   <a href="https://www.danielearmentano.com" target="_blank">🌐 Portfolio</a> •
