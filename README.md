@@ -5,7 +5,6 @@
   <a href="https://www.danielearmentano.com" target="_blank">🌐 Portfolio</a> •
   <a href="https://linkedin.com/in/danielelpsy" target="_blank">💼 LinkedIn</a> •
   <a href="https://hackerone.com/danielelpsy" target="_blank">🔓 HackerOne</a> •
-  <a href="https://instagram.com/danielelpsy" target="_blank">📸 Instagram</a>
 </p>
 
 ---
