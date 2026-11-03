@@ -57,7 +57,7 @@ I occasionally publish technical write-ups about vulnerabilities and security re
 
 - 🏆 **7th nationally** — Italian Cybersecurity Olympiads (OliCyber) 2025
 - 🇮🇹 **#6 in Italy** — HackerOne leaderboard 2025
-- 🔐 **[CVE-2026-21169](https://www.cve.org/CVERecord?id=CVE-2026-21169)** — Samsung Smart Switch vulnerability discovery
+- 🔐 **[CVE-2026-21169](https://security.samsungmobile.com/serviceWeb.smsb)** — Samsung Smart Switch vulnerability discovery
 - 🔎 Security findings acknowledged by **Samsung, Sony PlayStation, Oracle, and Grindr**
 
 ---
